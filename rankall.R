@@ -10,9 +10,7 @@ rankall <- function(outcome, num = "best") {
   ## Return a data frame with the hospital names and the
   ## (abbreviated) state name
   
-  ##Fuck the system!
-  ##https://www.youtube.com/watch?v=lx2fZU5USus
-  ##I WILL use rankhospital!
+  ##using the hospital!
   source("rankhospital.R")
   
   ##Check outcome
